@@ -13,8 +13,6 @@ hello GIt
 hot-fix
 hot-fix
 hot-fix
-<<<<<<< HEAD
 hot-fix master test`
-=======
 hot-fix hot-fix test
->>>>>>> hot-fix
+11111
